@@ -1,0 +1,12 @@
+C:\Raj\Rnd\Practice\DPT\Adapter\bin\Debug\net8.0\Adapter.deps.json
+C:\Raj\Rnd\Practice\DPT\Adapter\bin\Debug\net8.0\Adapter.dll
+C:\Raj\Rnd\Practice\DPT\Adapter\bin\Debug\net8.0\Adapter.pdb
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.dll
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.pdb
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\ref\Adapter.dll
+C:\Raj\Rnd\Practice\DPT\Adapter\obj\Debug\net8.0\Adapter.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Raj\Rnd\Practice\DPT\Factory\bin\Debug\net8.0\Factory.deps.json
+C:\Raj\Rnd\Practice\DPT\Factory\bin\Debug\net8.0\Factory.dll
+C:\Raj\Rnd\Practice\DPT\Factory\bin\Debug\net8.0\Factory.pdb
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\Factory.dll
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\refint\Factory.dll
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\Factory.pdb
+C:\Raj\Rnd\Practice\DPT\Factory\obj\Debug\net8.0\ref\Factory.dll

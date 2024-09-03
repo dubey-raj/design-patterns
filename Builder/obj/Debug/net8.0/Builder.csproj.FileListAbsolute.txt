@@ -1,0 +1,11 @@
+C:\Raj\Rnd\Practice\DPT\Builder\bin\Debug\net8.0\Builder.deps.json
+C:\Raj\Rnd\Practice\DPT\Builder\bin\Debug\net8.0\Builder.dll
+C:\Raj\Rnd\Practice\DPT\Builder\bin\Debug\net8.0\Builder.pdb
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\Builder.dll
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\refint\Builder.dll
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\Builder.pdb
+C:\Raj\Rnd\Practice\DPT\Builder\obj\Debug\net8.0\ref\Builder.dll

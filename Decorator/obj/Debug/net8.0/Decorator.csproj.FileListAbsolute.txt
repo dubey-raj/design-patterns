@@ -1,0 +1,11 @@
+C:\Raj\Rnd\Practice\DPT\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Raj\Rnd\Practice\DPT\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Raj\Rnd\Practice\DPT\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Raj\Rnd\Practice\DPT\Decorator\obj\Debug\net8.0\ref\Decorator.dll

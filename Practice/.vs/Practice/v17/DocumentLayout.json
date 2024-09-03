@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|c:\\raj\\rnd\\practice\\dpt\\practice\\controllers\\behavioural\\strategycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|solutionrelative:controllers\\behavioural\\strategycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|c:\\raj\\rnd\\practice\\dpt\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B6821-7DF6-463E-AA7B-63D7737FC3B8}|..\\Strategy\\Strategy.csproj|c:\\raj\\rnd\\practice\\dpt\\strategy\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B6821-7DF6-463E-AA7B-63D7737FC3B8}|..\\Strategy\\Strategy.csproj|c:\\raj\\rnd\\practice\\dpt\\strategy\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B6821-7DF6-463E-AA7B-63D7737FC3B8}|..\\Strategy\\Strategy.csproj|c:\\raj\\rnd\\practice\\dpt\\strategy\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B6821-7DF6-463E-AA7B-63D7737FC3B8}|..\\Strategy\\Strategy.csproj|c:\\raj\\rnd\\practice\\dpt\\strategy\\cryptopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B6821-7DF6-463E-AA7B-63D7737FC3B8}|..\\Strategy\\Strategy.csproj|c:\\raj\\rnd\\practice\\dpt\\strategy\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B6821-7DF6-463E-AA7B-63D7737FC3B8}|..\\Strategy\\Strategy.csproj|c:\\raj\\rnd\\practice\\dpt\\strategy\\ipaymentstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|c:\\raj\\rnd\\practice\\dpt\\practice\\controllers\\behavioural\\mediatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|solutionrelative:controllers\\behavioural\\mediatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|c:\\raj\\rnd\\practice\\dpt\\practice\\controllers\\creational\\buildercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|solutionrelative:controllers\\creational\\buildercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1016D4-B47D-4FAC-8BEC-8AB0470E738A}|..\\Bridge\\Bridge.csproj|c:\\raj\\rnd\\practice\\dpt\\bridge\\abstraction\\thirdparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1016D4-B47D-4FAC-8BEC-8AB0470E738A}|..\\Bridge\\Bridge.csproj|c:\\raj\\rnd\\practice\\dpt\\bridge\\abstraction\\propertydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|c:\\raj\\rnd\\practice\\dpt\\practice\\controllers\\creational\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48555D59-4243-44A0-BAAD-E03C178C3857}|Practice.csproj|solutionrelative:controllers\\creational\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550D1B28-974E-491B-8860-5F4F7C134E6A}|..\\Adapter\\Adapter.csproj|c:\\raj\\rnd\\practice\\dpt\\adapter\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E9DB-9B90-4DB3-8062-D2BB4BB8D647}|..\\Factory\\Factory.csproj|c:\\raj\\rnd\\practice\\dpt\\factory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F66B93-0F42-4F59-A545-7E4984E4B9E6}|..\\Builder\\Builder.csproj|c:\\raj\\rnd\\practice\\dpt\\builder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaypalPayment.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\PaypalPayment.cs",
+              "RelativeDocumentMoniker": "..\\Strategy\\PaypalPayment.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\PaypalPayment.cs",
+              "RelativeToolTip": "..\\Strategy\\PaypalPayment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:07:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "..\\Strategy\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\CreditCardPayment.cs",
+              "RelativeToolTip": "..\\Strategy\\CreditCardPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:06:01.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\Strategy\\PaymentService.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\PaymentService.cs",
+              "RelativeToolTip": "..\\Strategy\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:45:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StrategyController.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Behavioural\\StrategyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Behavioural\\StrategyController.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Behavioural\\StrategyController.cs",
+              "RelativeToolTip": "Controllers\\Behavioural\\StrategyController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwC0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:42:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:16:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptoPayment.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\CryptoPayment.cs",
+              "RelativeDocumentMoniker": "..\\Strategy\\CryptoPayment.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\CryptoPayment.cs",
+              "RelativeToolTip": "..\\Strategy\\CryptoPayment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:08:13.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "..\\Strategy\\IPaymentService.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\IPaymentService.cs",
+              "RelativeToolTip": "..\\Strategy\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:09:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentStategy.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\IPaymentStategy.cs",
+              "RelativeDocumentMoniker": "..\\Strategy\\IPaymentStategy.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Strategy\\IPaymentStategy.cs",
+              "RelativeToolTip": "..\\Strategy\\IPaymentStategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:02:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropertyDamage.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Bridge\\Abstraction\\PropertyDamage.cs",
+              "RelativeDocumentMoniker": "..\\Bridge\\Abstraction\\PropertyDamage.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Bridge\\Abstraction\\PropertyDamage.cs",
+              "RelativeToolTip": "..\\Bridge\\Abstraction\\PropertyDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:10:02.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThirdParty.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Bridge\\Abstraction\\ThirdParty.cs",
+              "RelativeDocumentMoniker": "..\\Bridge\\Abstraction\\ThirdParty.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Bridge\\Abstraction\\ThirdParty.cs",
+              "RelativeToolTip": "..\\Bridge\\Abstraction\\ThirdParty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:15:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuilderController.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Creational\\BuilderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Creational\\BuilderController.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Creational\\BuilderController.cs",
+              "RelativeToolTip": "Controllers\\Creational\\BuilderController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:02:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FactoryController.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Creational\\FactoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Creational\\FactoryController.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Creational\\FactoryController.cs",
+              "RelativeToolTip": "Controllers\\Creational\\FactoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:05:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Adapter\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Adapter\\Employee.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Adapter\\Employee.cs",
+              "RelativeToolTip": "..\\Adapter\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:09:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MediaterController.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Behavioural\\MediaterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Behavioural\\MediaterController.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Practice\\Controllers\\Behavioural\\MediaterController.cs",
+              "RelativeToolTip": "Controllers\\Behavioural\\MediaterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:47:57.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Factory\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Factory\\Class1.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Factory\\Class1.cs",
+              "RelativeToolTip": "..\\Factory\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:33:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Raj\\Rnd\\Practice\\DPT\\Builder\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Builder\\Class1.cs",
+              "ToolTip": "C:\\Raj\\Rnd\\Practice\\DPT\\Builder\\Class1.cs",
+              "RelativeToolTip": "..\\Builder\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:32:44.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

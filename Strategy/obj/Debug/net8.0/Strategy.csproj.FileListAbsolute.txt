@@ -1,0 +1,11 @@
+C:\Raj\Rnd\Practice\DPT\Strategy\bin\Debug\net8.0\Strategy.deps.json
+C:\Raj\Rnd\Practice\DPT\Strategy\bin\Debug\net8.0\Strategy.dll
+C:\Raj\Rnd\Practice\DPT\Strategy\bin\Debug\net8.0\Strategy.pdb
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\Strategy.dll
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\Strategy.pdb
+C:\Raj\Rnd\Practice\DPT\Strategy\obj\Debug\net8.0\ref\Strategy.dll
